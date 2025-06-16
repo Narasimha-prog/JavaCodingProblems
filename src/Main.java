@@ -1,4 +1,5 @@
 import checkOddNumbers.CheckOddNumbers;
+import checkPalindrome.CheckPalindrome;
 import fibonacciSequence.FibonacciSequence;
 import oddOReven.OddOrEven;
 import primeNumber.PrimeNumber;
@@ -17,6 +18,7 @@ public class Main {
         //System.out.println(ReverseString.reverseStringValue("Mani"));
         //SwapTwoNumbers.swapTwoNumbersValue(12,32);
         //FibonacciSequence.printFibonacciSequence(89);
-        CheckOddNumbers.printOddNumbers(List.of(12,45,5,5));
+        //CheckOddNumbers.printOddNumbers(List.of(12,45,5,5));
+        System.out.println(CheckPalindrome.isItPalindrome("malayalam"));
     }
 }
