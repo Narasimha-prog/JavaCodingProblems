@@ -1,4 +1,4 @@
-package searchAlgorithm;
+package searchAlgorithm_SortedArray;
 
 public class BinarySerach {
     public static int binarySearch(int[] num, int target)

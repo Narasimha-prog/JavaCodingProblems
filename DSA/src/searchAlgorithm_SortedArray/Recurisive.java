@@ -1,4 +1,4 @@
-package searchAlgorithm;
+package searchAlgorithm_SortedArray;
 
 public class Recurisive {
 

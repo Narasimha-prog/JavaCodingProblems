@@ -1,6 +1,4 @@
-package swapTwoNumbers;
-
-import java.sql.SQLOutput;
+package swapTwoNumbers_9;
 
 public class SwapTwoNumbers {
 

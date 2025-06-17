@@ -1,4 +1,4 @@
-package checkVowelsPresentInString;
+package checkVowelsPresentInString_3;
 
 public class CheckVowelspresentInString {
     public static boolean checkWetherVowelsisPresentInString(String value){

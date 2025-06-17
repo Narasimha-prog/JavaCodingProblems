@@ -1,4 +1,4 @@
-package oddOReven;
+package oddOReven_5;
 
 public class OddOrEven {
     public static boolean isItEvenOrOdd(int value){

@@ -1,4 +1,4 @@
-package checkPalindrome;
+package checkPalindrome_2;
 
 public class CheckPalindrome {
      public static  boolean isItPalindrome(String value){

@@ -1,4 +1,4 @@
-package primeNumber;
+package primeNumber_6;
 
 public class PrimeNumber {
     public static boolean isItPrimeNumber(int value){

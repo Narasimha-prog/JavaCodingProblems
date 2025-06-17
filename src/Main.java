@@ -1,12 +1,4 @@
-import checkOddNumbers.CheckOddNumbers;
-import checkPalindrome.CheckPalindrome;
-import fibonacciSequence.FibonacciSequence;
-import oddOReven.OddOrEven;
-import primeNumber.PrimeNumber;
-import reverseString.ReverseString;
-import swapTwoNumbers.SwapTwoNumbers;
-
-import java.util.List;
+import checkPalindrome_2.CheckPalindrome;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

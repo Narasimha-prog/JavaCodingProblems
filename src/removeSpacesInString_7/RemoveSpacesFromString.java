@@ -1,11 +1,6 @@
-package removeSpacesInString;
+package removeSpacesInString_7;
 
 public class RemoveSpacesFromString {
 
-     static class  NestedOneClass{
-         static class NestedTwoClass{
-             long l= 12333;
-         }
 
-    }
 }

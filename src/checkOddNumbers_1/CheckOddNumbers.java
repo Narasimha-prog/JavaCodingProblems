@@ -1,4 +1,4 @@
-package checkOddNumbers;
+package checkOddNumbers_1;
 
 import java.util.List;
 
