@@ -8,10 +8,10 @@ public class RemoveSpacesFromString {
         System.out.println(output);
 
 
-        String input = "   Hello World   ";
-        String trimmed = input.trim();
-        System.out.println("Before: '" + input + "'");
-        System.out.println("After: '" + trimmed + "'");
+//        String input1 = "   Hello World   ";
+//        String trimmed = input.trim();
+//        System.out.println("Before: '" + input1 + "'");
+//        System.out.println("After: '" + trimmed + "'");
 
     }
 }
